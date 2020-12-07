@@ -1,6 +1,6 @@
 # OOP - Introduction in Object-Oriented Programming
 
-![pic](ttps://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg)
+![pic](https://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg)
 
 ## Why Object-Oriented Programming?
 Object-oriented programming has a few benefits over procedural programming, because it:
