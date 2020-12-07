@@ -20,3 +20,4 @@ Consider Python packages like Scikit-learn, pandas, and NumPy. These are all Pyt
 - OOP - a commonly used abbreviation for object-oriented programming
 - encapsulation - one of the fundamental ideas behind object-oriented programming is called encapsulation: you can combine functions and data all into a single entity. In object-oriented programming, this single entity is called a class. Encapsulation allows you to hide implementation details much like how the scikit-learn package hides the implementation of machine learning algorithms.
 
+For a more detailed intro follow this [link.](https://realpython.com/python3-object-oriented-programming/)
