@@ -3,11 +3,15 @@
 ![pic](https://files.realpython.com/media/Object-Oriented-Programming-OOP-in-Python-3_Watermarked.0d29780806d5.jpg)
 
 ## Why Object-Oriented Programming?
+
 Object-oriented programming has a few benefits over procedural programming, because it:
 
 - allows you to create large, modular programs that can easily expand over time;
 - hides the implementation from the end-user.
+
 Consider Python packages like Scikit-learn, pandas, and NumPy. These are all Python packages built with object-oriented programming.
+
+## Object-Oriented Programming (OOP) Vocabulary
 
 - class - a blueprint consisting of methods and attributes
 - object - an instance of a class. It can help to think of objects as something in the real world like a yellow pencil, a small dog, a blue shirt, etc.
